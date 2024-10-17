@@ -11,6 +11,11 @@
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
 # PROGRAM
+````
+REGISTER NO: 212222110031
+NAME: P PANIMALAR
+DEPARTMENT: CSE(IoT)
+````
 ~~~~
 
 #include<stdio.h>
